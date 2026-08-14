@@ -1,0 +1,6 @@
+{
+  "name": "TakiRec Pro",
+  "description": "High-performance smart screen & gameplay recorder with low RAM optimization, 120 FPS support, and in-app video manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- White outer badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C37.4,24 24,37.4 24,54 C24,70.6 37.4,84 54,84 C70.6,84 84,70.6 84,54 C84,37.4 70.6,24 54,24 Z" />
+
+    <!-- Video Camera Icon in center -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M38,42 C36.3,42 35,43.3 35,45 L35,63 C35,64.7 36.3,66 38,66 L56,66 C57.7,66 59,64.7 59,63 L59,45 C59,43.3 57.7,42 38,42 Z M63,46.5 L63,61.5 L73,56.5 L73,51.5 Z" />
+
+    <!-- Red Record Glow Dot -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M70,36 C72.2,36 74,34.2 74,32 C74,29.8 72.2,28 70,28 C67.8,28 66,29.8 66,32 C66,34.2 67.8,36 70,36 Z" />
+</vector>
